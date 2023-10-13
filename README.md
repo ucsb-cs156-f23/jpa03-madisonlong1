@@ -9,7 +9,7 @@ Running at: http://jpa02-madisonlong1.dokku-03.cs.ucsb.edu/
 Then remove this TODO item.
 ```
 
-Running at: http://jpa02-madisonlong1.dokku-03.cs.ucsb.edu/
+Running at: http://jpa02-madisonlong1.dokku-03.cs.ucsb.edu/ fix this for jpa03
 
 # Configuring GitHub Pages for the documentation
 
