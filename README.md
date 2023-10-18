@@ -1,15 +1,8 @@
 # STARTER-jpa03
 
 ```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
 
-Running at: http://jpa02-madisonlong1.dokku-03.cs.ucsb.edu/
-
-Then remove this TODO item.
-```
-
-Running at: http://jpa02-madisonlong1.dokku-03.cs.ucsb.edu/ fix this for jpa03
+Running at: jdbc:postgresql://172.17.0.57:5432/jpa03-madisonlong1_db
 
 # Configuring GitHub Pages for the documentation
 
